@@ -13,12 +13,13 @@
 [![](https://visitcount.itsvg.in/api?id=Sasirekha-bg&icon=9&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->- 👋 Hi, I’m @Sasirekha-bg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- I'm passionate about building websites that are easy and enjoyable to use
+- Currently learning React to expand skillset and build dynamic applications
+- Eager to learn and collaborate
+- Excited to connect with other frontend developers and explore new opportunities
+- Currently learning React to expand skillset and build dynamic applications
+- Let's connect:🔗https://www.linkedin.com/in/sasi-rekha-bg/|[sasirekhab24@gmail.com]
+   
 
 <!---
 Sasirekha-bg/Sasirekha-bg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
