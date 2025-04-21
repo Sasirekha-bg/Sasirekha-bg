@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Sasirekha-bg/Sasirekha-bg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sasirekha** (aka [@Sasirekha-bg](https://github.com/Sasirekha-bg))  
+A **DevOps enthusiast** on a mission to blend automation, creativity & impact!  
 
-Here are some ideas to get you started:
+```python
+def about_me():
+    return {
+        "Currently Exploring": [
+            "DevOps (CI/CD, Docker, Azure)",
+            "Shell scripting",
+            "Agentic AI (LangGraph, autonomous agents)"
+        ],
+        "Why I Do This": "To support my family and create a future through tech."
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+def tech_stack():
+    return [
+        "💻 Shell Scripting", "🐳 Docker (learning)", "☁️ Azure (learning)", 
+        "⚙️ CI/CD (exploring)", "🧠 AI Agents & LangGraph"
+    ]
+
+def soft_skills():
+    return ["Fast Learner", "Problem Solver", "Supportive Team Player"]
+
+def what_i_bring():
+    return {
+        "Mindset": "Growth-focused, community-driven, mentor-inspired",
+        "Goal": "Land a solid DevOps role 🚀"
+    }
+
+def connect():
+    return {
+        "LinkedIn": "https://linkedin.com/in/Sasirekha-bg",
+        "GitHub": "https://github.com/Sasirekha-bg"
+    }
