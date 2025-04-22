@@ -13,11 +13,11 @@
 ---
 
 ### 👩‍💻 About Me  
-- 🔧 Automating cloud infrastructure with **DevOps tools**  
-- 🤖 Applying **Generative AI** & **Agentic AI** in real workflows  
-- ☁️ Working with **AWS**, **Docker**, **GitHub Actions**, **Linux**  
-- 🚀 Exploring **MLOps** to bring AI models into production  
-- 🌱 Learning in public and building projects for real-world use
+-  Automating cloud infrastructure with **DevOps tools**  
+-  Applying **Generative AI** & **Agentic AI** in real workflows  
+-  Working with **AWS**, **Docker**, **GitHub Actions**, **Linux**  
+-  Exploring **MLOps** to bring AI models into production  
+-  Learning in public and building projects for real-world use
 
 ---
 
@@ -31,10 +31,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-### 📈 GitHub Activity
-
-[![](https://raw.githubusercontent.com/Sasirekha-bg/Sasirekha-bg/output/github-contribution-grid-snake.svg)](https://github.com/Sasirekha-bg)
 
 ---
 
